@@ -1,0 +1,225 @@
+//Miro
+{
+    "movies": [{
+            "title": "Fight Club",
+            "timeInMinutes": 139,
+            "premierYear": 1999,
+            "categories": ["Drama"],
+            "directors": ["David Fincher"],
+            "cast": [{
+                    "name": "Brad Pitt",
+                    "characterName": "Tyler Durden",
+                    "birthCountry": "USA",
+                    "birthCity": "Oklahoma",
+                    "birthYear": 1963
+                },
+                {
+                    "name": "Edward Norton",
+                    "characterName": "Tyler Durden",
+                    "birthCountry": "USA",
+                    "birthCity": "Massachusetts",
+                    "birthYear": 1969
+                }
+            ]
+        },
+        {
+            "title": "The Departed",
+            "timeInMinutes": 151,
+            "premierYear": 2006,
+            "categories": ["Mystery", "Thriller"],
+            "directors": ["Martin Scorsese"],
+            "cast": [{
+                    "name": "Leonardo DiCaprio",
+                    "characterName": "Billy",
+                    "birthCountry": "USA",
+                    "birthCity": "California",
+                    "birthYear": 1974
+                },
+                {
+                    "name": "Matt Damon",
+                    "characterName": "Colin Sullivan",
+                    "birthCountry": "USA",
+                    "birthCity": "Massachusetts",
+                    "birthYear": 1970
+                }
+            ]
+        },
+        {
+            "title": "Shutter Island",
+            "timeInMinutes": 138,
+            "premierYear": 2010,
+            "categories": ["Drama", "Crime"],
+            "directors": ["Martin Scorsese"],
+            "cast": [{
+                    "name": "Leonardo DiCaprio",
+                    "characterName": "Teddy Daniels",
+                    "birthCountry": "USA",
+                    "birthCity": "California",
+                    "birthYear": 1974
+                },
+                {
+                    "name": "Mark Ruffalo",
+                    "characterName": "Chuck Aule",
+                    "birthCountry": "USA",
+                    "birthCity": "Wisconsin",
+                    "birthYear": 1967
+                }
+            ]
+        },
+        {
+            "title": "Catch Me If You Can",
+            "timeInMinutes": 141,
+            "premierYear": 2003,
+            "categories": ["Drama", "Crime"],
+            "directors": ["Steven Spielberg"],
+            "cast": [{
+                    "name": "Leonardo DiCaprio",
+                    "characterName": "Frank Abagnale Jr.",
+                    "birthCountry": "USA",
+                    "birthCity": "California",
+                    "birthYear": 1974
+                },
+                {
+                    "name": "Tom Hanks",
+                    "characterName": "Carl Hanratty",
+                    "birthCountry": "USA",
+                    "birthCity": "California",
+                    "birthYear": 1956
+                }
+            ]
+        },
+        {
+            "title": "Lord of War",
+            "timeInMinutes": 122,
+            "premierYear": 2005,
+            "categories": ["Drama", "Crime"],
+            "directors": ["Andrew Niccol"],
+            "cast": [{
+                    "name": "Nicolas Cage",
+                    "characterName": "Yuri Orlov",
+                    "birthCountry": "USA",
+                    "birthCity": "California",
+                    "birthYear": 1964
+                },
+                {
+                    "name": "Bridget Moynahan",
+                    "characterName": "Ava Fontaine",
+                    "birthCountry": "USA",
+                    "birthCity": "New York",
+                    "birthYear": 1971
+                }
+            ]
+        },
+        //B. Peti
+        {
+            "title": "The Room",
+            "timeInMinutes": 99,
+            "premierYear": 2003,
+            "categories": ["Drama"],
+            "directors": ["Tommy Wiseau"],
+            "cast": [{
+                    "name": "Tommy Wiseau",
+                    "characterName": "Johnny",
+                    "birthCountry": "Poland",
+                    "birthCity": "Poznań",
+                    "birthYear": 1955
+                },
+                {
+                    "name": "Greg Sestero",
+                    "characterName": "Mark",
+                    "birthCountry": "USA",
+                    "birthCity": "Walnut Creek",
+                    "birthYear": 1978
+                }
+            ]
+        },
+        {
+            "title": "Kingdom of Heaven",
+            "timeInMinutes": 194,
+            "premierYear": 2005,
+            "categories": ["Action", "Adventure", "Drama"],
+            "directors": ["Ridley Scott"],
+            "cast": [{
+                    "name": "Orlando Bloom",
+                    "characterName": "Balian de Ibelin",
+                    "birthCountry": "United Kingdom",
+                    "birthCity": "Canterbury",
+                    "birthYear": 1977
+                },
+                {
+                    "name": "Eva Green",
+                    "characterName": "Sibylla",
+                    "birthCountry": "France",
+                    "birthCity": "Paris",
+                    "birthYear": 1980
+                }
+            ]
+        },
+        {
+            "title": "La La Land",
+            "timeInMinutes": 128,
+            "premierYear": 2016,
+            "categories": ["Comedy", "Drama", "Music"],
+            "directors": ["Damien Chazelle"],
+            "cast": [{
+                    "name": "Ryan Gosling",
+                    "characterName": "Sebastian",
+                    "birthCountry": "Canada",
+                    "birthCity": "London",
+                    "birthYear": 1980
+                },
+                {
+                    "name": "Emma Stone",
+                    "characterName": "Mia",
+                    "birthCountry": "USA",
+                    "birthCity": "Scottsdale",
+                    "birthYear": 1988
+                }
+            ]
+        },
+        {
+            "title": "Filth",
+            "timeInMinutes": 97,
+            "premierYear": 2013,
+            "categories": ["Comedy", "Drama", "Crime"],
+            "directors": ["Jon S. Baird"],
+            "cast": [{
+                    "name": "James McAvoy",
+                    "characterName": "Bruce",
+                    "birthCountry": "United Kingdom",
+                    "birthCity": "Glasgow",
+                    "birthYear": 1979
+                },
+                {
+                    "name": "Jamie Bell",
+                    "characterName": "Lennox",
+                    "birthCountry": "United Kingdom",
+                    "birthCity": "Billingham",
+                    "birthYear": 1986
+                }
+            ]
+        },
+        {
+            "title": "Trainspotting",
+            "timeInMinutes": 95,
+            "premierYear": 1996,
+            "categories": ["Drama"],
+            "directors": ["Danny Boyle"],
+            "cast": [{
+                    "name": "Ewan McGregor",
+                    "characterName": "Renton",
+                    "birthCountry": "United Kingdom",
+                    "birthCity": "Perth",
+                    "birthYear": 1971
+                },
+                {
+                    "name": "Ewen Bremner",
+                    "characterName": "Spud",
+                    "birthCountry": "United Kingdom",
+                    "birthCity": "Portobello",
+                    "birthYear": 1972
+                }
+            ]
+        }
+    ]
+}
